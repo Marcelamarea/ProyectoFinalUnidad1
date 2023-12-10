@@ -1,0 +1,33 @@
+.fondo{
+    font-family: 'Josefin Sans', sans-serif;
+	font-size: 14px;
+	line-height: 25px;
+	letter-spacing: 0.6px;
+	font-weight: 700;
+	padding: 0,5em;
+	background-color: #fe86d4;
+	color:#fff;
+	text-transform: uppercase;
+}
+li{
+    text-align: right;
+    align-items: right;
+    padding: 1em;
+}
+.video{
+    background-color:darkgray;
+    padding: 0,4em;
+}
+.titulo{
+    padding-top: 1em;
+    text-align: center;
+    display: block;
+    margin: auto;
+    padding: 2,5em;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 40px;
+    background-color: #fe86d4;
+	color:#fff;
+	line-height: 40px;
+	font-weight: 700;
+}
